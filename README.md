@@ -3,3 +3,4 @@
 Useful bash profiles
 
 - Mac
+- Linux
